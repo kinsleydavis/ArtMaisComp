@@ -7,7 +7,7 @@
 #
 ###	Utilizou-se de redes neurais profundas para transferir o estilo entre imagens. 
 ###	Para execução do código: 
-### *1. clicar no link ArteMaisComp.ipynb,* 
+### *1. clicar no link [**ArteMaisComp.ipynb**](https://github.com/KinsleyDavis/ArtMaisComp/blob/main/ArteMaisComp.ipynb),* 
 ### *2. clicar no botão “Open in Colab”,* 
 ### *3. clicar no play em cada célula de código.*
 ### Obs: sempre aguarde a conclusão do processamento.
