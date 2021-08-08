@@ -1,6 +1,6 @@
 # GOOGLE COLAB OU COLABORATORY
 #
-#	  O Colaboratory ou "Colab" é um ambiente em nuvem do Google  que permite escrever e executar código em Python no navegador, tendo como vantagens:
+#	 O Colaboratory ou "Colab" é um ambiente em nuvem do Google  que permite escrever e executar código em Python no navegador, tendo como vantagens:
 #
 #	Nenhuma configuração necessária
 #	Acesso gratuito a GPUs
