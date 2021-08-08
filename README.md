@@ -10,6 +10,6 @@
 ### *1. clicar no link [**ArteMaisComp.ipynb**](https://github.com/KinsleyDavis/ArtMaisComp/blob/main/ArteMaisComp.ipynb),* 
 ### *2. clicar no botão “Open in Colab”,* 
 ### *3. clicar no play em cada célula de código.*
-### Obs: sempre aguarde a conclusão do processamento.
+### Obs: sempre aguardar a conclusão do processamento da célula anterior.
 
 
