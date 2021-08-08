@@ -7,6 +7,6 @@
 #	Compartilhamento fácil
 #
 #	Utilizou-se de redes neurais profundas para transferir o estilo entre imagens. 
-#	Para execução do código, clicar no botão “Open in Colab”, clicar no play em cada célula de código e aguardar a conclusão do processamento.
+#	Para execução do código, clicar no link ArteMaisComp.ipynb, em seguida no botão “Open in Colab”, depois clicar no play em cada célula de código e aguardar a conclusão do processamento.
 
 
